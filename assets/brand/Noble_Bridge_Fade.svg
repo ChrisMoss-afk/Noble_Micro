@@ -1,0 +1,231 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="6967" height="3209" viewBox="0 0 6967 3209" version="1.1" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="svg-title svg-description" data-edition="selective-left-to-right-fade"><title id="svg-title">Noble Advisory Group | M01 Architectural Bridge | Subtle Directional Fade</title><desc id="svg-description">Editable cable-stayed bridge with sculpted pylon, patinated-teal deck and selective atmospheric masks. West deck and stays retain their architectural presence; eastern stays softly recede toward the viewport. Nine named Inkscape layers, native vector paths, no embedded raster images.</desc><defs>
+    <linearGradient id="M01_Distant_Deck_Upper_Edge_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1458.333333,66.666667,-66.666667,1458.333333,5416.666667,2970.833333)">
+      <stop offset="0" style="stop-color:#5c4c5e;stop-opacity:0.74"/>
+      <stop offset="1" style="stop-color:#302735;stop-opacity:0.96"/>
+    </linearGradient>
+    <linearGradient id="M01_Tower_Main_Contour_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1416.666667,179.166667,-179.166667,1416.666667,4833.333333,1750)">
+      <stop offset="0" style="stop-color:#433546;stop-opacity:1"/>
+      <stop offset="0.25" style="stop-color:#5b4a61;stop-opacity:1"/>
+      <stop offset="0.61" style="stop-color:#493a50;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:#292431;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="M01_Tower_Crown_Bevel_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(750,187.5,-187.5,750,5250,791.666667)">
+      <stop offset="0" style="stop-color:#867486;stop-opacity:0.52"/>
+      <stop offset="0.6" style="stop-color:#655267;stop-opacity:0.76"/>
+      <stop offset="1" style="stop-color:#332a3b;stop-opacity:0.76"/>
+    </linearGradient>
+    <linearGradient id="M01_Tower_Right_Leg_Shadow_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(612.5,0,0,612.5,5658.333333,1875)">
+      <stop offset="0" style="stop-color:#4e3d50;stop-opacity:0.9"/>
+      <stop offset="1" style="stop-color:#282331;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="M01_Deck_Front_Face_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,562.5,-562.5,0,0,2645.833333)">
+      <stop offset="0" style="stop-color:#443449;stop-opacity:1"/>
+      <stop offset="0.45" style="stop-color:#2f2536;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:#191720;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="M01_Deck_Atmospheric_Shadow_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5125,100,-100,5125,0,2825)">
+      <stop offset="0" style="stop-color:#403445;stop-opacity:0.23"/>
+      <stop offset="0.55" style="stop-color:#6b5b69;stop-opacity:0.09"/>
+      <stop offset="1" style="stop-color:#8f8490;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="M01_Patinated_Teal_Cap_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6791.666667,633.333333,-633.333333,6791.666667,0,2366.666667)">
+      <stop offset="0" style="stop-color:#416f6d;stop-opacity:1"/>
+      <stop offset="0.19" style="stop-color:#4e7a76;stop-opacity:1"/>
+      <stop offset="0.59" style="stop-color:#5e8985;stop-opacity:1"/>
+      <stop offset="0.87" style="stop-color:#487371;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:#365f5e;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="M01_Teal_Surface_Glaze_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,254.166667,-254.166667,0,0,2345.833333)">
+      <stop offset="0" style="stop-color:#7ea9a1;stop-opacity:0.43"/>
+      <stop offset="0.65" style="stop-color:#6a9991;stop-opacity:0.02"/>
+      <stop offset="1" style="stop-color:#233d42;stop-opacity:0.15"/>
+    </linearGradient>
+    <linearGradient id="M01_Fade_West_Cables" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6967" y2="0" data-label="Cables fade most strongly near the editorial column">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".24"/><stop offset="13%" stop-color="#ffffff" stop-opacity=".36"/><stop offset="26%" stop-color="#ffffff" stop-opacity=".57"/><stop offset="40%" stop-color="#ffffff" stop-opacity=".82"/><stop offset="62%" stop-color="#ffffff" stop-opacity="1"/><stop offset="100%" stop-color="#ffffff" stop-opacity="1"/></linearGradient>
+    <linearGradient id="M01_Fade_Structural_Underside" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6967" y2="0" data-label="Underside maintains readable depth across left span; subtly increases near tower">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".40"/><stop offset="14%" stop-color="#ffffff" stop-opacity=".46"/><stop offset="28%" stop-color="#ffffff" stop-opacity=".62"/><stop offset="43%" stop-color="#ffffff" stop-opacity=".83"/><stop offset="65%" stop-color="#ffffff" stop-opacity="1"/><stop offset="100%" stop-color="#ffffff" stop-opacity="1"/></linearGradient>
+    <linearGradient id="M01_Fade_Teal_Continuous_Deck" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6967" y2="0" data-label="Teal visible from page edge; continuity stronger than cable detail">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".62"/><stop offset="14%" stop-color="#ffffff" stop-opacity=".67"/><stop offset="30%" stop-color="#ffffff" stop-opacity=".78"/><stop offset="47%" stop-color="#ffffff" stop-opacity=".94"/><stop offset="62%" stop-color="#ffffff" stop-opacity="1"/><stop offset="100%" stop-color="#ffffff" stop-opacity="1"/></linearGradient>
+    <linearGradient id="M01_Fade_Cable_Anchor_Hardware" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6967" y2="0" data-label="Hardware fades less than cable cores, preserving identifiable mounts">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".26"/><stop offset="15%" stop-color="#ffffff" stop-opacity=".40"/><stop offset="32%" stop-color="#ffffff" stop-opacity=".65"/><stop offset="48%" stop-color="#ffffff" stop-opacity=".86"/><stop offset="67%" stop-color="#ffffff" stop-opacity="1"/><stop offset="100%" stop-color="#ffffff" stop-opacity="1"/></linearGradient>
+    <linearGradient id="M01_Fade_Underlip_Shadow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6967" y2="0" data-label="Independent attached contact shadow, softer at far-left but never fully lost">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".36"/><stop offset="15%" stop-color="#ffffff" stop-opacity=".44"/><stop offset="33%" stop-color="#ffffff" stop-opacity=".67"/><stop offset="50%" stop-color="#ffffff" stop-opacity=".88"/><stop offset="68%" stop-color="#ffffff" stop-opacity="1"/><stop offset="100%" stop-color="#ffffff" stop-opacity="1"/></linearGradient>
+    <mask id="M01_Mask_West_Cables" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha" data-noble-layer-role="selective-left-to-right-reveal">
+      <rect id="M01_Mask_Plane_West_Cables" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_West_Cables)"/>
+    </mask>
+    <mask id="M01_Mask_Structural_Underside" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha" data-noble-layer-role="selective-left-to-right-reveal">
+      <rect id="M01_Mask_Plane_Structural_Underside" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_Structural_Underside)"/>
+    </mask>
+    <mask id="M01_Mask_Teal_Continuous_Deck" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha" data-noble-layer-role="selective-left-to-right-reveal">
+      <rect id="M01_Mask_Plane_Teal_Continuous_Deck" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_Teal_Continuous_Deck)"/>
+    </mask>
+    <mask id="M01_Mask_Cable_Anchor_Hardware" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha" data-noble-layer-role="selective-left-to-right-reveal">
+      <rect id="M01_Mask_Plane_Cable_Anchor_Hardware" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_Cable_Anchor_Hardware)"/>
+    </mask>
+    <mask id="M01_Mask_Underlip_Shadow" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha" data-noble-layer-role="selective-left-to-right-reveal">
+      <rect id="M01_Mask_Plane_Underlip_Shadow" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_Underlip_Shadow)"/>
+    </mask>
+    <linearGradient id="M01_Fade_Eastern_Stays" x1="0" y1="0" x2="6967" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#ffffff" stop-opacity="1"/><stop offset="80%" stop-color="#ffffff" stop-opacity="1"/><stop offset="86%" stop-color="#ffffff" stop-opacity=".83"/><stop offset="91%" stop-color="#ffffff" stop-opacity=".43"/><stop offset="96%" stop-color="#ffffff" stop-opacity=".07"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/></linearGradient><mask id="M01_Mask_Eastern_Stays" maskUnits="userSpaceOnUse" maskContentUnits="userSpaceOnUse" x="-80" y="-80" width="7127" height="3480" style="mask-type:alpha"><rect id="M01_Mask_Plane_Eastern_Stays" x="-80" y="-80" width="7127" height="3480" fill="url(#M01_Fade_Eastern_Stays)"/></mask></defs>
+<g id="L01_Atmospheric_Shadow" inkscape:label="01 · Attached shadow and atmospheric depth" inkscape:groupmode="layer" mask="url(#M01_Mask_Underlip_Shadow)">
+    <path id="Shadow-Beneath-Deck" d="M-125,3120.833c1291.667,-287.5 2166.667,-229.167 3541.667,-175c1441.667,33.333 2450,154.167 3666.667,166.667l0,108.333l-7208.333,0l-0,-100Z" style="fill:#282232;fill-opacity:0.08;fill-rule:nonzero;" inkscape:label="Shadow Beneath Deck"/>
+    <path id="Tower-Base-Ground-Shadow" d="M4937.5,3100c375,-79.167 1079.167,-66.667 1729.167,8.333l300,100l-2341.667,0l312.5,-108.333Z" style="fill:#282232;fill-opacity:0.09;fill-rule:nonzero;" inkscape:label="Tower Base Ground Shadow"/>
+  </g>
+  <g id="L02_Distant_Span" inkscape:label="02 · Distant western span" inkscape:groupmode="layer" mask="url(#M01_Mask_West_Cables)">
+    <path id="Far-Deck-Upper-Edge" d="M5562.5,2833.333c416.667,41.667 920.833,83.333 1487.5,154.167l0,83.333c-633.333,-75 -1058.333,-125 -1487.5,-175l0,-62.5Z" style="fill:url(#M01_Distant_Deck_Upper_Edge_Gradient);fill-rule:nonzero;" inkscape:label="Far Deck Upper Edge"/>
+    <path id="Far-Deck-Edge-Glint" d="M5500,2829.167c500,45.833 1016.667,100 1550,162.5" style="fill:none;fill-rule:nonzero;stroke:#82a5a0;stroke-opacity:0.8;stroke-width:18.75px;" inkscape:label="Far Deck Edge Glint"/>
+    <path id="Distant-Right-Pier" d="M6379.167,3012.5l87.5,8.333l-4.167,187.5l-91.667,0l8.333,-195.833Z" style="fill:#5c4b5c;fill-opacity:0.85;fill-rule:nonzero;" inkscape:label="Distant Right Pier"/>
+    <path id="Distant-Right-Pier-Face" d="M6454.167,3016.667l29.167,4.167l-8.333,187.5l-25,0l4.167,-191.667Z" style="fill:#82747e;fill-opacity:0.6;fill-rule:nonzero;" inkscape:label="Distant Right Pier Face"/>
+    <path id="Far-Distant-Rail" d="M5958.333,2912.5c333.333,33.333 666.667,62.5 1083.333,116.667" style="fill:none;fill-rule:nonzero;stroke:#c3b7b4;stroke-opacity:0.68;stroke-width:6.25px;" inkscape:label="Far Distant Rail"/>
+  </g>
+  <g id="L03_East_Cable_Fan" inkscape:label="03 · Eastern stay cables" inkscape:groupmode="layer" mask="url(#M01_Mask_Eastern_Stays)">
+    <g id="Right-cable-01" inkscape:label="Right cable 01">
+      <path id="Right-Cable-01-Shadow" d="M5983.333,1358.333l241.667,1570.833" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 01 Shadow"/>
+      <path id="Right-Cable-01-Wire" d="M5975,1358.333l241.667,1570.833" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 01 Wire"/>
+    </g>
+    <g id="Right-cable-02" inkscape:label="Right cable 02">
+      <path id="Right-Cable-02-Shadow" d="M6004.167,1425l325,1520.833" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 02 Shadow"/>
+      <path id="Right-Cable-02-Wire" d="M5995.833,1425l325,1520.833" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 02 Wire"/>
+    </g>
+    <g id="Right-cable-03" inkscape:label="Right cable 03">
+      <path id="Right-Cable-03-Shadow" d="M6037.5,1500l395.833,1466.667" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 03 Shadow"/>
+      <path id="Right-Cable-03-Wire" d="M6029.167,1500l395.833,1466.667" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 03 Wire"/>
+    </g>
+    <g id="Right-cable-04" inkscape:label="Right cable 04">
+      <path id="Right-Cable-04-Shadow" d="M6050,1579.167l504.167,1412.5" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 04 Shadow"/>
+      <path id="Right-Cable-04-Wire" d="M6041.667,1579.167l504.167,1412.5" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 04 Wire"/>
+    </g>
+    <g id="Right-cable-05" inkscape:label="Right cable 05">
+      <path id="Right-Cable-05-Shadow" d="M6070.833,1658.333l595.833,1350" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 05 Shadow"/>
+      <path id="Right-Cable-05-Wire" d="M6062.5,1658.333l595.833,1350" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 05 Wire"/>
+    </g>
+    <g id="Right-cable-06" inkscape:label="Right cable 06">
+      <path id="Right-Cable-06-Shadow" d="M6095.833,1750l708.333,1279.167" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 06 Shadow"/>
+      <path id="Right-Cable-06-Wire" d="M6087.5,1750l708.333,1279.167" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 06 Wire"/>
+    </g>
+    <g id="Right-cable-07" inkscape:label="Right cable 07">
+      <path id="Right-Cable-07-Shadow" d="M6112.5,1854.167l812.5,1195.833" style="fill:none;fill-rule:nonzero;stroke:#bfb6bf;stroke-opacity:0.65;stroke-width:8.33px;" inkscape:label="Right Cable 07 Shadow"/>
+      <path id="Right-Cable-07-Wire" d="M6104.167,1854.167l812.5,1195.833" style="fill:none;fill-rule:nonzero;stroke:#332a39;stroke-opacity:0.95;stroke-width:6.88px;" inkscape:label="Right Cable 07 Wire"/>
+    </g>
+  </g>
+  <g id="L04_Pylon_Arch_Structure" inkscape:label="04 · Architectural pylon and open arch" inkscape:groupmode="layer">
+    <path id="Tower-Primary-Contour" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L6250.001,3204.167 L5866.668,3204.167 C5837.501,2558.334 5825.001,1975.001 5775.001,1637.5 C5725.001,1279.167 5675.001,1200.001 5625.001,1204.168 C5487.501,1233.335 5345.834,1679.168 5254.168,2266.668 C5212.501,2583.335 5208.334,2908.335 5216.667,3204.167 L4675,3204.167 Z" style="fill:url(#M01_Tower_Main_Contour_Gradient);fill-rule:nonzero;" inkscape:label="Tower Primary Contour"/>
+    <path id="Tower-Left-Lit-Edge" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5575,740 5510,910 5458.334,1104.166 L5150.001,2112.499 L4920.834,3045.832 L4675,3033.333 Z" style="fill:none;fill-rule:nonzero;stroke:#c8b6c5;stroke-opacity:0.62;stroke-width:18.75px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Left Lit Edge"/>
+    <path id="Tower-Crown-And-Left-Bevel" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L5804.167,958.333 C5765,844 5720,753 5662.5,687.5 C5595,738 5556,796 5525,845.833 L5216.667,1775 Z" style="fill:url(#M01_Tower_Crown_Bevel_Gradient);fill-rule:nonzero;" inkscape:label="Tower Crown And Left Bevel"/>
+    <path id="Tower-Arch-Inner-Shadow" d="M5158.333,3187.5c70.833,-1041.667 295.833,-1958.333 475,-1987.5c179.167,-33.333 237.5,816.667 350,2004.167" style="fill:none;fill-rule:nonzero;stroke:#241e2a;stroke-opacity:0.43;stroke-width:66.67px;" inkscape:label="Tower Arch Inner Shadow"/>
+    <path id="Tower-Arch-Edge-Highlight" d="M5208.333,3187.5c54.167,-1079.167 258.333,-1912.5 429.167,-1979.167" style="fill:none;fill-rule:nonzero;stroke:#a797a5;stroke-opacity:0.52;stroke-width:16.67px;" inkscape:label="Tower Arch Edge Highlight"/>
+    <path id="Tower-Right-Leg-Shade" d="M5658.333,595.833 C5791,610 5905,751 5945.833,912.5 L6250,3204.167 L6116.667,3204.167 L5825,1129.167 C5763,844 5719,688 5658.333,595.833 Z" style="fill:url(#M01_Tower_Right_Leg_Shadow_Gradient);fill-rule:nonzero;" inkscape:label="Tower Right Leg Shade"/>
+    <path id="Tower-Right-Rim-Edge" d="M5945.833,912.5c120.833,720.833 225,1554.167 304.167,2291.667" style="fill:none;fill-rule:nonzero;stroke:#211b28;stroke-opacity:0.45;stroke-width:14.17px;" inkscape:label="Tower Right Rim Edge"/>
+    <g id="Tower-surfaces---separately-editable" inkscape:label="Tower surfaces  separately editable">
+      <path id="Tower-Left-Face-Soft-Glaze" d="M5475,850l141.667,-166.667l-408.333,1333.333l-275,908.333l-120.833,137.5l308.333,-1054.167l354.167,-1158.333Z" style="fill:#aa97a2;fill-opacity:0.13;fill-rule:nonzero;" inkscape:label="Tower Left Face Soft Glaze"/>
+      <path id="Tower-Face-Vertical-Plane" d="M5670.833,604.167l233.333,329.167l108.333,766.667l-150,-379.167l-191.667,-716.667Z" style="fill:#302535;fill-opacity:0.25;fill-rule:nonzero;" inkscape:label="Tower Face Vertical Plane"/>
+      <path id="Tower-Top-Edge-Rim" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5" style="fill:none;fill-rule:nonzero;stroke:#a795a1;stroke-opacity:0.42;stroke-width:6.04px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Top Edge Rim"/>
+    </g>
+  </g>
+  <g id="L05_Deck_Structure" inkscape:label="05 · Curved structural deck and soffit" inkscape:groupmode="layer" mask="url(#M01_Mask_Structural_Underside)">
+    <path id="Beam-Deep-Shadow" d="M-125,2504.167c1625,79.167 4575,245.833 7208.333,500l0,104.167c-1395.833,-129.167 -2520.833,-225 -3566.667,-250c-1412.5,-41.667 -2508.333,-95.833 -3641.667,308.333l-0,-662.5Z" style="fill:#1c1a24;fill-opacity:0.96;fill-rule:nonzero;" inkscape:label="Beam Deep Shadow"/>
+    <path id="Beam-Front-Face" d="M-125,2508.333c1812.5,129.167 4666.667,291.667 7208.333,495.833l0,91.667c-1791.667,-116.667 -2783.333,-195.833 -3658.333,-216.667c-1266.667,-50 -2329.167,-62.5 -3550,250l-0,-620.833Z" style="fill:url(#M01_Deck_Front_Face_Gradient);fill-opacity:1;fill-rule:nonzero;" inkscape:label="Beam Front Face"/>
+    <path id="Beam-Bottom-Arch-Highlight" d="M-116.667,3129.167c1320.833,-329.167 2075,-304.167 3304.167,-266.667c1437.5,29.167 2479.167,120.833 3887.5,225" style="fill:none;fill-rule:nonzero;stroke:#907e91;stroke-opacity:0.42;stroke-width:12.5px;" inkscape:label="Beam Bottom Arch Highlight"/>
+    <path id="Beam-Front-Architectural-Reveal" d="M20.833,2545.833c1895.833,158.333 4604.167,291.667 6812.5,462.5" style="fill:none;fill-rule:nonzero;stroke:#a28d9d;stroke-opacity:0.29;stroke-width:11.67px;" inkscape:label="Beam Front Architectural Reveal"/>
+    <path id="Beam-Shadow-Plane" d="M-104.167,2533.333c1708.333,116.667 4687.5,258.333 7187.5,491.667l0,20.833c-2208.333,-183.333 -4958.333,-379.167 -7187.5,-387.5l0,-125Z" style="fill:url(#M01_Deck_Atmospheric_Shadow_Gradient);fill-rule:nonzero;" inkscape:label="Beam Shadow Plane"/>
+  </g>
+  <g id="L06_West_Cable_Fan" inkscape:label="06 · Western stay cables" inkscape:groupmode="layer" mask="url(#M01_Mask_West_Cables)">
+    <g id="Cable-01---upper-to-deck" inkscape:label="Cable 01  upper to deck">
+      <path id="Left-Cable-01-Edge" d="M5516.667,741.667l-3625,1770.833" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 01 Edge"/>
+      <path id="Left-Cable-01-Main" d="M5508.333,741.667l-3625,1770.833" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 01 Main"/>
+      <path id="Left-Cable-01-Highlight" d="M5503.75,741.667l-3625,1770.833" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 01 Highlight"/>
+    </g>
+    <g id="Cable-02---upper-to-deck" inkscape:label="Cable 02  upper to deck">
+      <path id="Left-Cable-02-Edge" d="M5491.667,841.667l-2870.833,1720.833" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 02 Edge"/>
+      <path id="Left-Cable-02-Main" d="M5483.333,841.667l-2870.833,1720.833" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 02 Main"/>
+      <path id="Left-Cable-02-Highlight" d="M5478.75,841.667l-2870.833,1720.833" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 02 Highlight"/>
+    </g>
+    <g id="Cable-03---upper-to-deck" inkscape:label="Cable 03  upper to deck">
+      <path id="Left-Cable-03-Edge" d="M5441.667,954.167l-2187.5,1691.667" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 03 Edge"/>
+      <path id="Left-Cable-03-Main" d="M5433.333,954.167l-2187.5,1691.667" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 03 Main"/>
+      <path id="Left-Cable-03-Highlight" d="M5428.75,954.167l-2187.5,1691.667" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 03 Highlight"/>
+    </g>
+    <g id="Cable-04---upper-to-deck" inkscape:label="Cable 04  upper to deck">
+      <path id="Left-Cable-04-Edge" d="M5395.833,1075l-1629.167,1625" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 04 Edge"/>
+      <path id="Left-Cable-04-Main" d="M5387.5,1075l-1629.167,1625" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 04 Main"/>
+      <path id="Left-Cable-04-Highlight" d="M5382.917,1075l-1629.167,1625" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 04 Highlight"/>
+    </g>
+    <g id="Cable-05---upper-to-deck" inkscape:label="Cable 05  upper to deck">
+      <path id="Left-Cable-05-Edge" d="M5337.5,1204.167l-1075,1520.833" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 05 Edge"/>
+      <path id="Left-Cable-05-Main" d="M5329.167,1204.167l-1075,1520.833" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 05 Main"/>
+      <path id="Left-Cable-05-Highlight" d="M5324.583,1204.167l-1075,1520.833" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 05 Highlight"/>
+    </g>
+    <g id="Cable-06---upper-to-deck" inkscape:label="Cable 06  upper to deck">
+      <path id="Left-Cable-06-Edge" d="M5270.833,1325l-658.333,1445.833" style="fill:none;fill-rule:nonzero;stroke:#8a818a;stroke-opacity:0.35;stroke-width:10px;" inkscape:label="Left Cable 06 Edge"/>
+      <path id="Left-Cable-06-Main" d="M5262.5,1325l-658.333,1445.833" style="fill:none;fill-rule:nonzero;stroke:#302635;stroke-opacity:0.92;stroke-width:8.75px;" inkscape:label="Left Cable 06 Main"/>
+      <path id="Left-Cable-06-Highlight" d="M5257.917,1325l-658.333,1445.833" style="fill:none;fill-rule:nonzero;stroke:#746775;stroke-opacity:0.65;stroke-width:2.17px;" inkscape:label="Left Cable 06 Highlight"/>
+    </g>
+  </g>
+  <g id="L07_Anchors_And_Tower_Sockets" inkscape:label="07 · Cable anchor hardware and tower sockets" inkscape:groupmode="layer" mask="url(#M01_Mask_Cable_Anchor_Hardware)">
+    <g id="Anchor-clamp-01" inkscape:label="Anchor clamp 01">
+      <path id="Anchor-Base-01" d="M1820.833,2520.833l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 01"/>
+      <path id="Anchor-Top-Bevel-01" d="M1829.167,2520.833l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 01"/>
+      <path id="Anchor-Fastener-01" d="M1895.833,2475l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 01"/>
+    </g>
+    <g id="Tower-connector-01" inkscape:label="Tower connector 01">
+      <path id="Tower-Cable-Plate-01" d="M5495.833,733.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 01"/>
+      <path id="Tower-Cable-Plate-Rim-01" d="M5495.833,733.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 01"/>
+    </g>
+    <g id="Anchor-clamp-02" inkscape:label="Anchor clamp 02">
+      <path id="Anchor-Base-02" d="M2550,2570.833l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 02"/>
+      <path id="Anchor-Top-Bevel-02" d="M2558.333,2570.833l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 02"/>
+      <path id="Anchor-Fastener-02" d="M2625,2525l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 02"/>
+    </g>
+    <g id="Tower-connector-02" inkscape:label="Tower connector 02">
+      <path id="Tower-Cable-Plate-02" d="M5470.833,833.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 02"/>
+      <path id="Tower-Cable-Plate-Rim-02" d="M5470.833,833.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 02"/>
+    </g>
+    <g id="Anchor-clamp-03" inkscape:label="Anchor clamp 03">
+      <path id="Anchor-Base-03" d="M3183.333,2654.167l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 03"/>
+      <path id="Anchor-Top-Bevel-03" d="M3191.667,2654.167l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 03"/>
+      <path id="Anchor-Fastener-03" d="M3258.333,2608.333l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 03"/>
+    </g>
+    <g id="Tower-connector-03" inkscape:label="Tower connector 03">
+      <path id="Tower-Cable-Plate-03" d="M5420.833,945.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 03"/>
+      <path id="Tower-Cable-Plate-Rim-03" d="M5420.833,945.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 03"/>
+    </g>
+    <g id="Anchor-clamp-04" inkscape:label="Anchor clamp 04">
+      <path id="Anchor-Base-04" d="M3695.833,2708.333l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 04"/>
+      <path id="Anchor-Top-Bevel-04" d="M3704.167,2708.333l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 04"/>
+      <path id="Anchor-Fastener-04" d="M3770.833,2662.5l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 04"/>
+    </g>
+    <g id="Tower-connector-04" inkscape:label="Tower connector 04">
+      <path id="Tower-Cable-Plate-04" d="M5375,1066.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 04"/>
+      <path id="Tower-Cable-Plate-Rim-04" d="M5375,1066.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 04"/>
+    </g>
+    <g id="Anchor-clamp-05" inkscape:label="Anchor clamp 05">
+      <path id="Anchor-Base-05" d="M4191.667,2733.333l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 05"/>
+      <path id="Anchor-Top-Bevel-05" d="M4200,2733.333l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 05"/>
+      <path id="Anchor-Fastener-05" d="M4266.667,2687.5l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 05"/>
+    </g>
+    <g id="Tower-connector-05" inkscape:label="Tower connector 05">
+      <path id="Tower-Cable-Plate-05" d="M5316.667,1195.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 05"/>
+      <path id="Tower-Cable-Plate-Rim-05" d="M5316.667,1195.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 05"/>
+    </g>
+    <g id="Anchor-clamp-06" inkscape:label="Anchor clamp 06">
+      <path id="Anchor-Base-06" d="M4541.667,2779.167l75,-50l62.5,0l-29.167,62.5l-108.333,-12.5Z" style="fill:#342b3a;fill-rule:nonzero;" inkscape:label="Anchor Base 06"/>
+      <path id="Anchor-Top-Bevel-06" d="M4550,2779.167l70.833,-45.833l37.5,0" style="fill:none;fill-rule:nonzero;stroke:#837381;stroke-opacity:0.75;stroke-width:5.63px;" inkscape:label="Anchor Top Bevel 06"/>
+      <path id="Anchor-Fastener-06" d="M4616.667,2733.333l4.167,29.167" style="fill:none;fill-rule:nonzero;stroke:#8b7a88;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Anchor Fastener 06"/>
+    </g>
+    <g id="Tower-connector-06" inkscape:label="Tower connector 06">
+      <path id="Tower-Cable-Plate-06" d="M5250,1316.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 06"/>
+      <path id="Tower-Cable-Plate-Rim-06" d="M5250,1316.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 06"/>
+    </g>
+  </g>
+  <g id="L08_Patinated_Teal_Cap" inkscape:label="08 · Patinated-teal deck cap" inkscape:groupmode="layer" mask="url(#M01_Mask_Teal_Continuous_Deck)">
+    <path id="Teal-Deck-Cap" d="M-125,2362.5c1895.833,158.333 4708.333,362.5 7208.333,612.5l0,75c-2166.667,-200 -5291.667,-391.667 -7208.333,-545.833l-0,-141.667Z" style="fill:url(#M01_Patinated_Teal_Cap_Gradient);fill-rule:nonzero;" inkscape:label="Teal Deck Cap"/>
+    <path id="Teal-Deck-Top-Edge-Light" d="M-125,2358.333c1791.667,162.5 4625,350 7208.333,612.5" style="fill:none;fill-rule:nonzero;stroke:#c2ddd5;stroke-opacity:0.70;stroke-width:13.75px;" inkscape:label="Teal Deck Top Edge Light"/>
+    <path id="Teal-Deck-Glaze" d="M-125,2370.833c1929.167,158.333 4666.667,350 7208.333,608.333l0,20.833c-2166.667,-200 -5291.667,-383.333 -7208.333,-575l-0,-54.167Z" style="fill:url(#M01_Teal_Surface_Glaze_Gradient);fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Teal Deck Glaze"/>
+    <path id="Teal-Cap-Lower-Rule" d="M-125,2504.167c1895.833,150 4875,341.667 7208.333,541.667" style="fill:none;fill-rule:nonzero;stroke:#263d40;stroke-opacity:0.6;stroke-width:7.08px;" inkscape:label="Teal Cap Lower Rule"/>
+  </g>
+  <g id="L09_Architectural_Finish" inkscape:label="09 · Architectural finishing and highlights" inkscape:groupmode="layer" mask="url(#M01_Mask_Cable_Anchor_Hardware)">
+    <path id="Near-Deck-Soft-Lower-Reflection" d="M50,2983.333c1183.333,-229.167 1904.167,-216.667 2658.333,-150" style="fill:none;fill-rule:nonzero;stroke:#867783;stroke-opacity:0.12;stroke-width:5.21px;" inkscape:label="Near Deck Soft Lower Reflection"/>
+    <path id="Deck-Alignment-Rule" d="M4862.5,2820.833c637.5,54.167 1341.667,120.833 2050,195.833" style="fill:none;fill-rule:nonzero;stroke:#a998a1;stroke-opacity:0.35;stroke-width:3.33px;" inkscape:label="Deck Alignment Rule"/>
+    <path id="Pylon-Shadow-On-Underside" d="M4783.333,2887.5c191.667,16.667 395.833,29.167 612.5,37.5l-4.167,79.167c-302.778,-22.222 -534.722,-38.889 -695.833,-50l87.5,-66.667Z" style="fill:#1c1824;fill-opacity:0.18;fill-rule:nonzero;" inkscape:label="Pylon Shadow On Underside"/>
+  </g>
+  </svg>

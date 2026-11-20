@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1920" height="320" viewBox="0 0 1920 320" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="svg-title svg-description" data-edition="Noble-M04-integrated-connections-v7.0.2">
+  <title id="svg-title">Noble Advisory Group — M04 Twin Architectural Bridge</title>
+  <desc id="svg-description">Two smaller mirrored M01 pylon designs, with native M01 cable launch geometry, original M01 tapered outer pylon sockets, seven unobtrusive inward stays per arch, 26 deck-anchored cables, patinated teal deck and registered structural piers.</desc>
+  <defs><linearGradient id="M01_Tower_Main_Contour_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1416.666667,179.166667,-179.166667,1416.666667,4833.333333,1750)">
+      <stop offset="0" style="stop-color:#433546;stop-opacity:1"/>
+      <stop offset="0.25" style="stop-color:#5b4a61;stop-opacity:1"/>
+      <stop offset="0.61" style="stop-color:#493a50;stop-opacity:1"/>
+      <stop offset="1" style="stop-color:#292431;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="M01_Tower_Crown_Bevel_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(750,187.5,-187.5,750,5250,791.666667)">
+      <stop offset="0" style="stop-color:#867486;stop-opacity:0.52"/>
+      <stop offset="0.6" style="stop-color:#655267;stop-opacity:0.76"/>
+      <stop offset="1" style="stop-color:#332a3b;stop-opacity:0.76"/>
+    </linearGradient>
+    <linearGradient id="M01_Tower_Right_Leg_Shadow_Gradient" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(612.5,0,0,612.5,5658.333333,1875)">
+      <stop offset="0" style="stop-color:#4e3d50;stop-opacity:0.9"/>
+      <stop offset="1" style="stop-color:#282331;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="M04_Patinated_Deck" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:#89ada5;stop-opacity:1"/><stop offset="0.24" style="stop-color:#698e89;stop-opacity:1"/><stop offset="0.72" style="stop-color:#537c76;stop-opacity:1"/><stop offset="1" style="stop-color:#416d68;stop-opacity:1"/></linearGradient><linearGradient id="M04_Deck_Face_Gradient" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:#4f4054;stop-opacity:1"/><stop offset="0.35" style="stop-color:#403348;stop-opacity:1"/><stop offset="1" style="stop-color:#25202f;stop-opacity:1"/></linearGradient><linearGradient id="M04_Pier_Shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:#625267;stop-opacity:1"/><stop offset="0.53" style="stop-color:#453849;stop-opacity:1"/><stop offset="1" style="stop-color:#332b3b;stop-opacity:1"/></linearGradient></defs>
+  <g id="M04_L01_Foundations" inkscape:label="01 · M01-registered bridge piers" inkscape:groupmode="layer">
+    <g id="M04_West_Foundation" inkscape:label="West · integrated M01 pier legs">
+      <path id="M04_West_LeftPier" d="M432.65 267.925 L474.9 267.925 L475.9 320 L427.65 320Z" style="fill:url(#M04_Pier_Shade);" inkscape:label="Left arch leg carries through the deck"/>
+      <path id="M04_West_LeftPierRim" d="M432.65 267.925 L427.65 320" style="fill:none;stroke:#aea0ad;stroke-opacity:.35;stroke-width:1.4;" inkscape:label="M01 left bevel retained below the deck"/>
+      <path id="M04_West_RightPier" d="M525.6 267.925 L555.5 267.925 L561.5 320 L523.6 320Z" style="fill:#3a3043;" inkscape:label="Right arch leg carries through the deck"/>
+      <path id="M04_West_RightPierRim" d="M555.5 267.925 L561.5 320" style="fill:none;stroke:#968798;stroke-opacity:.26;stroke-width:1.25;" inkscape:label="M01 right-leg contour retained below the deck"/>
+    </g>
+    <g id="M04_East_Foundation" transform="translate(1920 0) scale(-1 1)" inkscape:label="East · integrated M01 pier legs">
+      <path id="M04_East_LeftPier" d="M432.65 267.925 L474.9 267.925 L475.9 320 L427.65 320Z" style="fill:url(#M04_Pier_Shade);" inkscape:label="Left arch leg carries through the deck"/>
+      <path id="M04_East_LeftPierRim" d="M432.65 267.925 L427.65 320" style="fill:none;stroke:#aea0ad;stroke-opacity:.35;stroke-width:1.4;" inkscape:label="M01 left bevel retained below the deck"/>
+      <path id="M04_East_RightPier" d="M525.6 267.925 L555.5 267.925 L561.5 320 L523.6 320Z" style="fill:#3a3043;" inkscape:label="Right arch leg carries through the deck"/>
+      <path id="M04_East_RightPierRim" d="M555.5 267.925 L561.5 320" style="fill:none;stroke:#968798;stroke-opacity:.26;stroke-width:1.25;" inkscape:label="M01 right-leg contour retained below the deck"/>
+    </g>
+  </g>
+  <g id="M04_L02_Complete_Stay_Fans" inkscape:label="02 · Original M01 attachment locations and connected stay fans" inkscape:groupmode="layer">
+    <g id="M04_West_Cables" inkscape:label="West · authentic M01 cable fan attachment">
+      <g id="M04_West_Outer_Cables" inkscape:label="West outer M01 fan">
+        <g id="M04_West_Outer_Stay_01" inkscape:label="Stay 01 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_01_Rim" d="M497.65 75.85 L12 247.547" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_01_Core" d="M497.65 75.85 L12 247.547" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Outer_Stay_02" inkscape:label="Stay 02 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_02_Rim" d="M495.7 83.65 L90 250.932" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_02_Core" d="M495.7 83.65 L90 250.932" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Outer_Stay_03" inkscape:label="Stay 03 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_03_Rim" d="M491.8 92.425 L169 254.064" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_03_Core" d="M491.8 92.425 L169 254.064" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Outer_Stay_04" inkscape:label="Stay 04 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_04_Rim" d="M488.225 101.85 L248 256.898" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_04_Core" d="M488.225 101.85 L248 256.898" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Outer_Stay_05" inkscape:label="Stay 05 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_05_Rim" d="M483.675 111.925 L327 259.435" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_05_Core" d="M483.675 111.925 L327 259.435" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Outer_Stay_06" inkscape:label="Stay 06 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Outer_06_Rim" d="M478.475 121.35 L395 261.38" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Outer_06_Core" d="M478.475 121.35 L395 261.38" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+      </g>
+      <g id="M04_West_Inner_Cables" inkscape:label="West inner M01 fan">
+        <g id="M04_West_Inner_Stay_01" inkscape:label="Stay 01 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_01_Rim" d="M534.05 123.95 L849 268.706" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_01_Core" d="M534.05 123.95 L849 268.706" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_02" inkscape:label="Stay 02 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_02_Rim" d="M535.675 129.15 L804 268.419" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_02_Core" d="M535.675 129.15 L804 268.419" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_03" inkscape:label="Stay 03 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_03_Rim" d="M538.275 135 L762 268.064" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_03_Core" d="M538.275 135 L762 268.064" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_04" inkscape:label="Stay 04 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_04_Rim" d="M539.25 141.175 L723 267.659" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_04_Core" d="M539.25 141.175 L723 267.659" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_05" inkscape:label="Stay 05 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_05_Rim" d="M540.875 147.35 L683 267.168" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_05_Core" d="M540.875 147.35 L683 267.168" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_06" inkscape:label="Stay 06 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_06_Rim" d="M542.825 154.5 L645 266.631" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_06_Core" d="M542.825 154.5 L645 266.631" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_West_Inner_Stay_07" inkscape:label="Stay 07 · native M01 pylon start and deck clamp">
+          <path id="M04_West_Inner_07_Rim" d="M544.125 162.625 L615 266.159" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_West_Inner_07_Core" d="M544.125 162.625 L615 266.159" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+      </g>
+    </g>
+    <g id="M04_East_Cables" inkscape:label="East · authentic M01 cable fan attachment">
+      <g id="M04_East_Outer_Cables" inkscape:label="East outer M01 fan">
+        <g id="M04_East_Outer_Stay_01" inkscape:label="Stay 01 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_01_Rim" d="M1422.35 75.85 L1908 247.547" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_01_Core" d="M1422.35 75.85 L1908 247.547" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Outer_Stay_02" inkscape:label="Stay 02 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_02_Rim" d="M1424.3 83.65 L1830 250.932" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_02_Core" d="M1424.3 83.65 L1830 250.932" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Outer_Stay_03" inkscape:label="Stay 03 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_03_Rim" d="M1428.2 92.425 L1751 254.064" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_03_Core" d="M1428.2 92.425 L1751 254.064" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Outer_Stay_04" inkscape:label="Stay 04 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_04_Rim" d="M1431.775 101.85 L1672 256.898" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_04_Core" d="M1431.775 101.85 L1672 256.898" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Outer_Stay_05" inkscape:label="Stay 05 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_05_Rim" d="M1436.325 111.925 L1593 259.435" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_05_Core" d="M1436.325 111.925 L1593 259.435" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Outer_Stay_06" inkscape:label="Stay 06 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Outer_06_Rim" d="M1441.525 121.35 L1525 261.38" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Outer_06_Core" d="M1441.525 121.35 L1525 261.38" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+      </g>
+      <g id="M04_East_Inner_Cables" inkscape:label="East inner M01 fan">
+        <g id="M04_East_Inner_Stay_01" inkscape:label="Stay 01 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_01_Rim" d="M1385.95 123.95 L1071 268.706" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_01_Core" d="M1385.95 123.95 L1071 268.706" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_02" inkscape:label="Stay 02 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_02_Rim" d="M1384.325 129.15 L1116 268.419" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_02_Core" d="M1384.325 129.15 L1116 268.419" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_03" inkscape:label="Stay 03 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_03_Rim" d="M1381.725 135 L1158 268.064" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_03_Core" d="M1381.725 135 L1158 268.064" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_04" inkscape:label="Stay 04 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_04_Rim" d="M1380.75 141.175 L1197 267.659" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_04_Core" d="M1380.75 141.175 L1197 267.659" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_05" inkscape:label="Stay 05 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_05_Rim" d="M1379.125 147.35 L1237 267.168" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_05_Core" d="M1379.125 147.35 L1237 267.168" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_06" inkscape:label="Stay 06 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_06_Rim" d="M1377.175 154.5 L1275 266.631" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_06_Core" d="M1377.175 154.5 L1275 266.631" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+        <g id="M04_East_Inner_Stay_07" inkscape:label="Stay 07 · native M01 pylon start and deck clamp">
+          <path id="M04_East_Inner_07_Rim" d="M1375.875 162.625 L1305 266.159" style="fill:none;stroke:#a396a7;stroke-opacity:.27;stroke-width:1.25;stroke-linecap:round;" inkscape:label="Light edge from M01 stay material"/>
+          <path id="M04_East_Inner_07_Core" d="M1375.875 162.625 L1305 266.159" style="fill:none;stroke:#78677e;stroke-opacity:.7;stroke-width:.8;stroke-linecap:round;" inkscape:label="M01 coloured tension cable"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="M04_L03_M01_Pylons" inkscape:label="03 · Original M01 sculpted pylon geometry" inkscape:groupmode="layer">
+    <g id="M04_West_M01_Pylon" inkscape:label="West · true M01 pylon geometry">
+      <g id="M04_West_Exact_M01_Transform" transform="translate(68 18) scale(0.078)" inkscape:label="West · uniform M01 scaling"><path id="M04_West_Tower-Primary-Contour" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L6250.001,3204.167 L5866.668,3204.167 C5837.501,2558.334 5825.001,1975.001 5775.001,1637.5 C5725.001,1279.167 5675.001,1200.001 5625.001,1204.168 C5487.501,1233.335 5345.834,1679.168 5254.168,2266.668 C5212.501,2583.335 5208.334,2908.335 5216.667,3204.167 L4675,3204.167 Z" style="fill:url(#M01_Tower_Main_Contour_Gradient);fill-rule:nonzero;" inkscape:label="Tower Primary Contour"/>
+    <path id="M04_West_Tower-Left-Lit-Edge" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5575,740 5510,910 5458.334,1104.166 L5150.001,2112.499 L4920.834,3045.832 L4675,3033.333 Z" style="fill:none;fill-rule:nonzero;stroke:#c8b6c5;stroke-opacity:0.62;stroke-width:18.75px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Left Lit Edge"/>
+    <path id="M04_West_Tower-Crown-And-Left-Bevel" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L5804.167,958.333 C5765,844 5720,753 5662.5,687.5 C5595,738 5556,796 5525,845.833 L5216.667,1775 Z" style="fill:url(#M01_Tower_Crown_Bevel_Gradient);fill-rule:nonzero;" inkscape:label="Tower Crown And Left Bevel"/>
+    <path id="M04_West_Tower-Arch-Inner-Shadow" d="M5158.333,3187.5c70.833,-1041.667 295.833,-1958.333 475,-1987.5c179.167,-33.333 237.5,816.667 350,2004.167" style="fill:none;fill-rule:nonzero;stroke:#241e2a;stroke-opacity:0.43;stroke-width:66.67px;" inkscape:label="Tower Arch Inner Shadow"/>
+    <path id="M04_West_Tower-Arch-Edge-Highlight" d="M5208.333,3187.5c54.167,-1079.167 258.333,-1912.5 429.167,-1979.167" style="fill:none;fill-rule:nonzero;stroke:#a797a5;stroke-opacity:0.52;stroke-width:16.67px;" inkscape:label="Tower Arch Edge Highlight"/>
+    <path id="M04_West_Tower-Right-Leg-Shade" d="M5658.333,595.833 C5791,610 5905,751 5945.833,912.5 L6250,3204.167 L6116.667,3204.167 L5825,1129.167 C5763,844 5719,688 5658.333,595.833 Z" style="fill:url(#M01_Tower_Right_Leg_Shadow_Gradient);fill-rule:nonzero;" inkscape:label="Tower Right Leg Shade"/>
+    <path id="M04_West_Tower-Right-Rim-Edge" d="M5945.833,912.5c120.833,720.833 225,1554.167 304.167,2291.667" style="fill:none;fill-rule:nonzero;stroke:#211b28;stroke-opacity:0.45;stroke-width:14.17px;" inkscape:label="Tower Right Rim Edge"/>
+    <g id="M04_West_Tower-surfaces---separately-editable" inkscape:label="Tower surfaces  separately editable">
+      <path id="M04_West_Tower-Left-Face-Soft-Glaze" d="M5475,850l141.667,-166.667l-408.333,1333.333l-275,908.333l-120.833,137.5l308.333,-1054.167l354.167,-1158.333Z" style="fill:#aa97a2;fill-opacity:0.13;fill-rule:nonzero;" inkscape:label="Tower Left Face Soft Glaze"/>
+      <path id="M04_West_Tower-Face-Vertical-Plane" d="M5670.833,604.167l233.333,329.167l108.333,766.667l-150,-379.167l-191.667,-716.667Z" style="fill:#302535;fill-opacity:0.25;fill-rule:nonzero;" inkscape:label="Tower Face Vertical Plane"/>
+      <path id="M04_West_Tower-Top-Edge-Rim" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5" style="fill:none;fill-rule:nonzero;stroke:#a795a1;stroke-opacity:0.42;stroke-width:6.04px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Top Edge Rim"/>
+    </g>
+  </g>
+    </g>
+    <g id="M04_East_M01_Pylon" transform="translate(1920 0) scale(-1 1)" inkscape:label="East · true M01 pylon geometry">
+      <g id="M04_East_Exact_M01_Transform" transform="translate(68 18) scale(0.078)" inkscape:label="East · uniform M01 scaling"><path id="M04_East_Tower-Primary-Contour" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L6250.001,3204.167 L5866.668,3204.167 C5837.501,2558.334 5825.001,1975.001 5775.001,1637.5 C5725.001,1279.167 5675.001,1200.001 5625.001,1204.168 C5487.501,1233.335 5345.834,1679.168 5254.168,2266.668 C5212.501,2583.335 5208.334,2908.335 5216.667,3204.167 L4675,3204.167 Z" style="fill:url(#M01_Tower_Main_Contour_Gradient);fill-rule:nonzero;" inkscape:label="Tower Primary Contour"/>
+    <path id="M04_East_Tower-Left-Lit-Edge" d="M4675,3033.333 L5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5575,740 5510,910 5458.334,1104.166 L5150.001,2112.499 L4920.834,3045.832 L4675,3033.333 Z" style="fill:none;fill-rule:nonzero;stroke:#c8b6c5;stroke-opacity:0.62;stroke-width:18.75px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Left Lit Edge"/>
+    <path id="M04_East_Tower-Crown-And-Left-Bevel" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5 L5804.167,958.333 C5765,844 5720,753 5662.5,687.5 C5595,738 5556,796 5525,845.833 L5216.667,1775 Z" style="fill:url(#M01_Tower_Crown_Bevel_Gradient);fill-rule:nonzero;" inkscape:label="Tower Crown And Left Bevel"/>
+    <path id="M04_East_Tower-Arch-Inner-Shadow" d="M5158.333,3187.5c70.833,-1041.667 295.833,-1958.333 475,-1987.5c179.167,-33.333 237.5,816.667 350,2004.167" style="fill:none;fill-rule:nonzero;stroke:#241e2a;stroke-opacity:0.43;stroke-width:66.67px;" inkscape:label="Tower Arch Inner Shadow"/>
+    <path id="M04_East_Tower-Arch-Edge-Highlight" d="M5208.333,3187.5c54.167,-1079.167 258.333,-1912.5 429.167,-1979.167" style="fill:none;fill-rule:nonzero;stroke:#a797a5;stroke-opacity:0.52;stroke-width:16.67px;" inkscape:label="Tower Arch Edge Highlight"/>
+    <path id="M04_East_Tower-Right-Leg-Shade" d="M5658.333,595.833 C5791,610 5905,751 5945.833,912.5 L6250,3204.167 L6116.667,3204.167 L5825,1129.167 C5763,844 5719,688 5658.333,595.833 Z" style="fill:url(#M01_Tower_Right_Leg_Shadow_Gradient);fill-rule:nonzero;" inkscape:label="Tower Right Leg Shade"/>
+    <path id="M04_East_Tower-Right-Rim-Edge" d="M5945.833,912.5c120.833,720.833 225,1554.167 304.167,2291.667" style="fill:none;fill-rule:nonzero;stroke:#211b28;stroke-opacity:0.45;stroke-width:14.17px;" inkscape:label="Tower Right Rim Edge"/>
+    <g id="M04_East_Tower-surfaces---separately-editable" inkscape:label="Tower surfaces  separately editable">
+      <path id="M04_East_Tower-Left-Face-Soft-Glaze" d="M5475,850l141.667,-166.667l-408.333,1333.333l-275,908.333l-120.833,137.5l308.333,-1054.167l354.167,-1158.333Z" style="fill:#aa97a2;fill-opacity:0.13;fill-rule:nonzero;" inkscape:label="Tower Left Face Soft Glaze"/>
+      <path id="M04_East_Tower-Face-Vertical-Plane" d="M5670.833,604.167l233.333,329.167l108.333,766.667l-150,-379.167l-191.667,-716.667Z" style="fill:#302535;fill-opacity:0.25;fill-rule:nonzero;" inkscape:label="Tower Face Vertical Plane"/>
+      <path id="M04_East_Tower-Top-Edge-Rim" d="M5404.167,795.833 C5496,701 5586,620 5666.667,595.833 C5797,606 5905,751 5945.834,912.5" style="fill:none;fill-rule:nonzero;stroke:#a795a1;stroke-opacity:0.42;stroke-width:6.04px;stroke-linejoin:round;stroke-linecap:round;" inkscape:label="Tower Top Edge Rim"/>
+    </g>
+  </g>
+    </g>
+  </g>
+  <g id="M04_L04_Continuous_Deck" inkscape:label="04 · One physical bridge girder, soffit and cap" inkscape:groupmode="layer">
+    <path id="M04_Deck_Face" d="M-60 259.164 Q960 308.836 1980 259.164 L1980 279.164 Q960 328.836 -60 279.164Z" style="fill:url(#M04_Deck_Face_Gradient);" inkscape:label="Integrated full-width structural girder"/>
+    <path id="M04_Deck_Soffit" d="M-60 279.164 Q960 328.836 1980 279.164" style="fill:none;stroke:#9b8c9c;stroke-opacity:.34;stroke-width:1.4;" inkscape:label="Natural girder soffit and structural lower edge"/>
+    <path id="M04_Deck_Join_Seam" d="M-60 269.164 Q960 318.836 1980 269.164" style="fill:none;stroke:#a697a7;stroke-opacity:.15;stroke-width:1.1;" inkscape:label="Continuous front-face manufacturing seam"/>
+    <path id="M04_Patinated_Deck_Cap" d="M-60 244.164 Q960 293.836 1980 244.164 L1980 259.164 Q960 308.836 -60 259.164Z" style="fill:url(#M04_Patinated_Deck);" inkscape:label="Continuous patinated teal deck directly under cable clamps"/>
+    <path id="M04_Patinated_Top_Edge" d="M-60 244.164 Q960 293.836 1980 244.164" style="fill:none;stroke:#bad5cd;stroke-opacity:.58;stroke-width:1.35;" inkscape:label="Deck top rule shared by every cable endpoint"/>
+    <path id="M04_Patinated_Lower_Edge" d="M-60 259.164 Q960 308.836 1980 259.164" style="fill:none;stroke:#284848;stroke-opacity:.6;stroke-width:1.2;" inkscape:label="Fine contact rule of the patinated cap"/>
+  </g>
+  <g id="M04_L05_Fasteners" inkscape:label="05 · Original M01 tapered pylon sockets and deck clamps" inkscape:groupmode="layer">
+    <g id="M04_West_PylonMounts" inkscape:label="West · native tapered M01 pylon plates">
+      <g id="M04_West_SourceMountScale" transform="translate(68 18) scale(0.078)" inkscape:label="West · 1:1 proportional M01 socket geometry"><path id="M04_West_Outer_Tower-Cable-Plate-01" d="M5495.833,733.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 01"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-01" d="M5495.833,733.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 01"/>
+    <path id="M04_West_Outer_Tower-Cable-Plate-02" d="M5470.833,833.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 02"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-02" d="M5470.833,833.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 02"/>
+    <path id="M04_West_Outer_Tower-Cable-Plate-03" d="M5420.833,945.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 03"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-03" d="M5420.833,945.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 03"/>
+    <path id="M04_West_Outer_Tower-Cable-Plate-04" d="M5375,1066.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 04"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-04" d="M5375,1066.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 04"/>
+    <path id="M04_West_Outer_Tower-Cable-Plate-05" d="M5316.667,1195.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 05"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-05" d="M5316.667,1195.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 05"/>
+    <path id="M04_West_Outer_Tower-Cable-Plate-06" d="M5250,1316.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 06"/>
+      <path id="M04_West_Outer_Tower-Cable-Plate-Rim-06" d="M5250,1316.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 06"/>
+    </g>
+    </g>
+    <g id="M04_East_PylonMounts" transform="translate(1920 0) scale(-1 1)" inkscape:label="East · native tapered M01 pylon plates">
+      <g id="M04_East_SourceMountScale" transform="translate(68 18) scale(0.078)" inkscape:label="East · 1:1 proportional M01 socket geometry"><path id="M04_East_Outer_Tower-Cable-Plate-01" d="M5495.833,733.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 01"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-01" d="M5495.833,733.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 01"/>
+    <path id="M04_East_Outer_Tower-Cable-Plate-02" d="M5470.833,833.333l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 02"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-02" d="M5470.833,833.333l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 02"/>
+    <path id="M04_East_Outer_Tower-Cable-Plate-03" d="M5420.833,945.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 03"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-03" d="M5420.833,945.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 03"/>
+    <path id="M04_East_Outer_Tower-Cable-Plate-04" d="M5375,1066.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 04"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-04" d="M5375,1066.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 04"/>
+    <path id="M04_East_Outer_Tower-Cable-Plate-05" d="M5316.667,1195.833l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 05"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-05" d="M5316.667,1195.833l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 05"/>
+    <path id="M04_East_Outer_Tower-Cable-Plate-06" d="M5250,1316.667l29.167,-8.333l-12.5,50l-16.667,-41.667Z" style="fill:#3c303f;fill-opacity:0.95;fill-rule:nonzero;" inkscape:label="Tower Cable Plate 06"/>
+      <path id="M04_East_Outer_Tower-Cable-Plate-Rim-06" d="M5250,1316.667l29.167,-8.333" style="fill:none;fill-rule:nonzero;stroke:#ab9ba7;stroke-opacity:0.7;stroke-width:4.17px;" inkscape:label="Tower Cable Plate Rim 06"/>
+    </g>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_01" inkscape:label="West outer 01 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_01" d="M7.35 248.447 L9.25 246.147 L15.2 246.147 L16.8 249.147Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_01" d="M9.55 246.267 L15.05 246.267" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_02" inkscape:label="West outer 02 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_02" d="M85.35 251.832 L87.25 249.532 L93.2 249.532 L94.8 252.532Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_02" d="M87.55 249.652 L93.05 249.652" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_03" inkscape:label="West outer 03 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_03" d="M164.35 254.964 L166.25 252.664 L172.2 252.664 L173.8 255.664Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_03" d="M166.55 252.784 L172.05 252.784" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_04" inkscape:label="West outer 04 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_04" d="M243.35 257.798 L245.25 255.498 L251.2 255.498 L252.8 258.498Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_04" d="M245.55 255.618 L251.05 255.618" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_05" inkscape:label="West outer 05 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_05" d="M322.35 260.335 L324.25 258.035 L330.2 258.035 L331.8 261.035Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_05" d="M324.55 258.155 L330.05 258.155" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Outer_DeckFitting_06" inkscape:label="West outer 06 · M01 inspired deck bearing">
+      <path id="M04_West_Outer_DeckClamp_06" d="M390.35 262.28 L392.25 259.98 L398.2 259.98 L399.8 262.98Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Outer_ClampHighlight_06" d="M392.55 260.1 L398.05 260.1" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_01" inkscape:label="West inner 01 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_01" d="M844.35 269.606 L846.25 267.306 L852.2 267.306 L853.8 270.306Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_01" d="M846.55 267.426 L852.05 267.426" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_02" inkscape:label="West inner 02 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_02" d="M799.35 269.319 L801.25 267.019 L807.2 267.019 L808.8 270.019Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_02" d="M801.55 267.139 L807.05 267.139" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_03" inkscape:label="West inner 03 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_03" d="M757.35 268.964 L759.25 266.664 L765.2 266.664 L766.8 269.664Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_03" d="M759.55 266.784 L765.05 266.784" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_04" inkscape:label="West inner 04 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_04" d="M718.35 268.559 L720.25 266.259 L726.2 266.259 L727.8 269.259Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_04" d="M720.55 266.379 L726.05 266.379" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_05" inkscape:label="West inner 05 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_05" d="M678.35 268.068 L680.25 265.768 L686.2 265.768 L687.8 268.768Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_05" d="M680.55 265.888 L686.05 265.888" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_06" inkscape:label="West inner 06 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_06" d="M640.35 267.531 L642.25 265.231 L648.2 265.231 L649.8 268.231Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_06" d="M642.55 265.351 L648.05 265.351" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_West_Inner_DeckFitting_07" inkscape:label="West inner 07 · M01 inspired deck bearing">
+      <path id="M04_West_Inner_DeckClamp_07" d="M610.35 267.059 L612.25 264.759 L618.2 264.759 L619.8 267.759Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_West_Inner_ClampHighlight_07" d="M612.55 264.879 L618.05 264.879" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_01" inkscape:label="East outer 01 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_01" d="M1903.35 248.447 L1905.25 246.147 L1911.2 246.147 L1912.8 249.147Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_01" d="M1905.55 246.267 L1911.05 246.267" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_02" inkscape:label="East outer 02 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_02" d="M1825.35 251.832 L1827.25 249.532 L1833.2 249.532 L1834.8 252.532Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_02" d="M1827.55 249.652 L1833.05 249.652" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_03" inkscape:label="East outer 03 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_03" d="M1746.35 254.964 L1748.25 252.664 L1754.2 252.664 L1755.8 255.664Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_03" d="M1748.55 252.784 L1754.05 252.784" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_04" inkscape:label="East outer 04 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_04" d="M1667.35 257.798 L1669.25 255.498 L1675.2 255.498 L1676.8 258.498Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_04" d="M1669.55 255.618 L1675.05 255.618" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_05" inkscape:label="East outer 05 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_05" d="M1588.35 260.335 L1590.25 258.035 L1596.2 258.035 L1597.8 261.035Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_05" d="M1590.55 258.155 L1596.05 258.155" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Outer_DeckFitting_06" inkscape:label="East outer 06 · M01 inspired deck bearing">
+      <path id="M04_East_Outer_DeckClamp_06" d="M1520.35 262.28 L1522.25 259.98 L1528.2 259.98 L1529.8 262.98Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Outer_ClampHighlight_06" d="M1522.55 260.1 L1528.05 260.1" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_01" inkscape:label="East inner 01 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_01" d="M1066.35 269.606 L1068.25 267.306 L1074.2 267.306 L1075.8 270.306Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_01" d="M1068.55 267.426 L1074.05 267.426" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_02" inkscape:label="East inner 02 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_02" d="M1111.35 269.319 L1113.25 267.019 L1119.2 267.019 L1120.8 270.019Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_02" d="M1113.55 267.139 L1119.05 267.139" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_03" inkscape:label="East inner 03 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_03" d="M1153.35 268.964 L1155.25 266.664 L1161.2 266.664 L1162.8 269.664Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_03" d="M1155.55 266.784 L1161.05 266.784" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_04" inkscape:label="East inner 04 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_04" d="M1192.35 268.559 L1194.25 266.259 L1200.2 266.259 L1201.8 269.259Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_04" d="M1194.55 266.379 L1200.05 266.379" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_05" inkscape:label="East inner 05 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_05" d="M1232.35 268.068 L1234.25 265.768 L1240.2 265.768 L1241.8 268.768Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_05" d="M1234.55 265.888 L1240.05 265.888" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_06" inkscape:label="East inner 06 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_06" d="M1270.35 267.531 L1272.25 265.231 L1278.2 265.231 L1279.8 268.231Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_06" d="M1272.55 265.351 L1278.05 265.351" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+    <g id="M04_East_Inner_DeckFitting_07" inkscape:label="East inner 07 · M01 inspired deck bearing">
+      <path id="M04_East_Inner_DeckClamp_07" d="M1300.35 267.059 L1302.25 264.759 L1308.2 264.759 L1309.8 267.759Z" style="fill:#3b3342;stroke:#a698a6;stroke-opacity:.57;stroke-width:.42;" inkscape:label="M01-style low-profile anchor bearing directly on the deck"/>
+      <path id="M04_East_Inner_ClampHighlight_07" d="M1302.55 264.879 L1308.05 264.879" style="fill:none;stroke:#b5a7b3;stroke-opacity:.53;stroke-width:.47;" inkscape:label="Tapered anchor bevel"/>
+    </g>
+  </g>
+</svg>
